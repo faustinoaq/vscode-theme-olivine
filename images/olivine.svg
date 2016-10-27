@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="135.91095mm"
-   height="69.485565mm"
-   viewBox="0 0 481.57423 246.2087"
+   width="65.779427mm"
+   height="33.630264mm"
+   viewBox="0 0 233.07671 119.16236"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -27,13 +27,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="137.31014"
-     inkscape:cy="112.21112"
+     inkscape:cy="-14.835222"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1320"
+     inkscape:window-width="1318"
      inkscape:window-height="739"
-     inkscape:window-x="46"
+     inkscape:window-x="48"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -60,15 +60,15 @@
     <rect
        style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:9.79129791;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4334"
-       width="481.57425"
-       height="246.20869"
+       width="233.07672"
+       height="119.16235"
        x="-0.20831215"
        y="378.74115"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g4182"
-       transform="translate(-58.688194,0)">
+       transform="matrix(0.48398917,0,0,0.48398917,-28.511942,195.43453)">
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -101,14 +101,14 @@
        inkscape:export-xdpi="90"
        sodipodi:linespacing="125%"
        id="text4174"
-       y="474.224"
-       x="460.11032"
-       style="font-style:normal;font-weight:normal;font-size:56.22143173px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#98bf64;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="424.95383"
+       x="222.58092"
+       style="font-style:normal;font-weight:normal;font-size:27.21056366px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#98bf64;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4178"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Medium';text-align:end;text-anchor:end;fill:#98bf64;fill-opacity:1"
-         y="474.224"
-         x="460.11035"
+         y="424.95383"
+         x="222.5809"
          sodipodi:role="line">Olivine color</tspan></text>
   </g>
 </svg>
