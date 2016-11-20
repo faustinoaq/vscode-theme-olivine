@@ -24,6 +24,10 @@ A theme with olivine-colored comments based on VSCode Dark+ theme.
 
 ## Release Notes
 
+### 0.0.3 (2016-11-20)
+
+- Update Dark+ theme files
+
 ### 0.0.1 (2016-10-27)
 
 - Initial release of `theme-olivine-comments`
