@@ -2,7 +2,7 @@
     "name": "theme-olivine-comments",
     "displayName": "Olivine Comments Theme",
     "description": "A theme with olivine-colored comments",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "faustinoaq",
     "engines": {
         "vscode": "^1.5.0"
