@@ -5,10 +5,8 @@
 		{
 			"scope": [
 				"comment",
-				"markup.punctuation.quote.beginning",
-				"string.quoted.double.punctuation.embedded.section",
-				"string.quoted.other.function.block.constant.double.placeholder",
-				"string.quoted.single.constant.character.format.placeholder"
+				"mtk8",
+				"mtk5"
 			],
 			"settings": {
 				"foreground": "#98bf64"
