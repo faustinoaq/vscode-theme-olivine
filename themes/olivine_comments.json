@@ -5,11 +5,21 @@
 		{
 			"scope": [
 				"comment",
-				"mtk8",
-				"mtk5"
+				"punctuation.section.embedded",
+				"constant.other.placeholder.c",
+				"constant.character.format.placeholder.other.python"
 			],
 			"settings": {
 				"foreground": "#98bf64"
+			}
+		},
+		{
+			"scope": [
+				"meta.function.method.with-arguments.crystal",
+				"punctuation.section.function.crystal"
+			],
+			"settings": {
+				"foreground": "#9cdcfe"
 			}
 		}
   ]
