@@ -26,7 +26,7 @@ A theme with olivine-colored comments based on VSCode Dark+ theme.
 
 ### 0.0.8 (2017-02-03)
 
-- New theme matching (see #18317)
+- New theme matching (see [#18317](https://github.com/Microsoft/vscode/issues/18317))
 
 ### 0.0.5 (2017-02-01)
 
