@@ -1,15 +1,15 @@
 {
     "name": "theme-olivine-comments",
-    "displayName": "Olivine Comments Theme",
+    "displayName": "Olivine Theme",
     "description": "A theme with olivine-colored comments",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "publisher": "faustinoaq",
     "engines": {
         "vscode": "^1.5.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/faustinoaq/vscode-theme-olivine-comments"
+        "url": "https://github.com/faustinoaq/vscode-theme-olivine"
     },
     "galleryBanner": {
         "color": "#98bf64",
@@ -24,14 +24,14 @@
     "categories": [
         "Themes"
     ],
-    "icon": "images/icon.svg",
+    "icon": "images/icon.png",
     "license": "MIT",
     "contributes": {
         "themes": [
             {
-                "label": "Olivine Comments",
+                "label": "Olivine",
                 "uiTheme": "vs-dark",
-                "path": "./themes/olivine_comments.json"
+                "path": "./themes/olivine.json"
             }
         ]
     }

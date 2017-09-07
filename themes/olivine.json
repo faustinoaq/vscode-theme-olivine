@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Olivine Comments",
+	"name": "Olivine",
 	"include": "./dark_plus.json",
 	"tokenColors": [
 		{
@@ -16,11 +16,10 @@
 		},
 		{
 			"scope": [
-				"meta.function.method.with-arguments.crystal",
-				"punctuation.section.function.crystal"
+				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#9cdcfe"
+				"foreground": "#C586C0"
 			}
 		}
   ]
