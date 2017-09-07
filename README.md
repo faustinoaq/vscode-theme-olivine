@@ -1,18 +1,10 @@
-# Theme Olivine Comments for VSCode
+# Theme Olivine for VSCode
 
 A theme with olivine-colored comments based on VSCode Dark+ theme.
 
 ![color](https://raw.githubusercontent.com/faustinoaq/vscode-theme-olivine/master/images/olivine.png)
 
 ## Features
-
-Comments, operators and statusbar are customized.
-
-![code](https://raw.githubusercontent.com/faustinoaq/vscode-theme-olivine/master/images/code.png)
-
-**Font:** [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
-
-**Icons:** [Simple Icons](https://marketplace.visualstudio.com/items?itemName=LaurentTreguier.vscode-simple-icons)
 
 ### C string format
 
