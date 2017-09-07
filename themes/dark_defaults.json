@@ -10,6 +10,6 @@
 		"list.dropBackground": "#383B3D",
 		"activityBarBadge.background": "#007ACC",
 		"sideBarTitle.foreground": "#BBBBBB",
-    "statusBar.background": "#252526"
+		"statusBar.background": "#252526"
 	}
 }
