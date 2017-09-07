@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="44.965545"
-     inkscape:cy="58.448133"
+     inkscape:zoom="1.4"
+     inkscape:cx="72.337165"
+     inkscape:cy="40.87274"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,15 +72,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:31.65170097px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#98bf64;fill-opacity:1;stroke:none;stroke-width:2.63764191px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42.671509"
-       y="583.56744"
+       x="59.162476"
+       y="588.83514"
        id="text4459"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="42.671509"
-         y="583.56744"
+         x="59.162476"
+         y="588.83514"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.14600372px;line-height:1.25;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';fill:#98bf64;fill-opacity:1;stroke-width:2.63764191px"
-         id="tspan4463">#{}</tspan></text>
+         id="tspan4463">//</tspan></text>
   </g>
 </svg>
