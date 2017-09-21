@@ -21,6 +21,14 @@
 			"settings": {
 				"foreground": "#C586C0"
 			}
+		},
+		{
+			"scope": [
+				"constant.other.symbol"
+			],
+			"settings": {
+				"foreground": "#ce9178"
+			}
 		}
   ]
 }

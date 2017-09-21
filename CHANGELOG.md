@@ -1,5 +1,9 @@
 # Change Log
 
+### [0.1.2] - 2017-09-21
+#### Add
+- Color for constant.other.symbol
+
 ### [0.1.1] - 2017-09-07
 #### Change
 - Update Dark theme and rename theme.
