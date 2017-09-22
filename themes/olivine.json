@@ -29,6 +29,14 @@
 			"settings": {
 				"foreground": "#ce9178"
 			}
+		},
+		{
+			"scope": [
+				"keyword.control.special-method"
+			],
+			"settings": {
+				"foreground": "#569cd6"
+			}
 		}
   ]
 }
