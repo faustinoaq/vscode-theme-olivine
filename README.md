@@ -6,17 +6,9 @@ A theme with olivine-colored comments based on VSCode Dark+ theme.
 
 ## Features
 
-### C string format
-
-![sample c](https://raw.githubusercontent.com/faustinoaq/vscode-theme-olivine/master/images/sample_c.png)
-
-### Python 3 string format
-
-![sample python](https://raw.githubusercontent.com/faustinoaq/vscode-theme-olivine/master/images/sample_python.png)
-
-### Ruby string interpolation
-
-![sample ruby](https://raw.githubusercontent.com/faustinoaq/vscode-theme-olivine/master/images/sample_ruby.png)
+- Slightly bright comments easy to read `#98bf64`
+- Colored keyword operator `#C586C0`
+- Colored [Ruby](https://www.ruby-lang.org/) & [Crystal](https://crystal-lang.org/) symbols  & special methods
 
 ## Release Notes
 

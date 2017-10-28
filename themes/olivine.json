@@ -5,10 +5,7 @@
 	"tokenColors": [
 		{
 			"scope": [
-				"comment",
-				"punctuation.section.embedded",
-				"constant.other.placeholder.c",
-				"constant.character.format.placeholder.other.python"
+				"comment"
 			],
 			"settings": {
 				"foreground": "#98bf64"
@@ -19,7 +16,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#c586c0"
 			}
 		},
 		{
