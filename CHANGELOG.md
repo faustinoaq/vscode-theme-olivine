@@ -1,5 +1,11 @@
 # Change Log
 
+### [0.1.4] - 2017-10-28
+#### Change
+- Update VS dark theme
+- Now interpolation and formatting characters are blue
+- Update README
+
 ### [0.1.3] - 2017-09-21
 #### Add
 - Color for constant.other.symbol
