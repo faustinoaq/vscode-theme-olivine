@@ -1,5 +1,11 @@
 # Change Log
 
+### [0.1.5] - 2018-04-06
+#### Change
+- Update VS dark theme
+- Remove italic comments
+
+
 ### [0.1.4] - 2017-10-28
 #### Change
 - Update VS dark theme
