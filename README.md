@@ -6,7 +6,7 @@ A theme with olivine-colored comments based on VSCode Dark+ theme.
 
 ## Features
 
-- Slightly bright comments easy to read `#98bf64`
+- Slightly bright comments easy to read `#98bf64` in low bright screens.
 - Colored keyword operator `#C586C0`
 - Colored [Ruby](https://www.ruby-lang.org/) & [Crystal](https://crystal-lang.org/) symbols  & special methods
 
